@@ -1,13 +1,13 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "Our views on travel, technology, lifestyle, food anddddd pups."
+name: "Ourmusings"
+title: "Ourmusings"
+description: "Our views on travel, technology, lifestyle, food and pups."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 url: ourmusings.github.io
 baseurl: /blog.io
 google_analytics: 'UA-141892236-2'
-disqus: 'demowebsite'
+# disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -23,10 +23,10 @@ authors:
     # web: https://www.wowthemes.net/donate/
     # twitter: https://twitter.com/wowthemesnet
     # description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  # john:
-  #   name: John
-  #   display_name: John    
-  #   avatar: 'assets/images/avatar.png'
+  Urvish:
+    name: Urvish
+    display_name: Urvish    
+    avatar: 'assets/images/urvish.jpg'
   #   gravatar: b1cc14991db7a456fcd761680bbc8f81
   #   email: wowthemesnet@gmail.com
   #   web: https://www.wowthemes.net
