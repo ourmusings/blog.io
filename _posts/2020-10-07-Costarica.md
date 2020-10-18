@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Pulmones de la tierra"
+title:  "Costa Rica - A breath of fresh air"
 author: Urvish
 categories: [ Travel ]
 tags: [ CostaRica ]
 image:
 ---
+
+Pura vida!
+
+## Pulmones de la tierra
+
 “Wait, is that a monkey on the tree?” “Is that a sloth?” asked Vinu and I excitedly. “No, that is a Kinkajou, and now it is gone” said Marcos McKoy, our guide. We were walking through a muddy trail during a night hike in the Corcovado National Park.  “Kinkajous are tree dwelling mammals that can turn their feet backwards to run easily in either direction along branches or trunks. They have a prehensile tail” , he continued, while we nodded as if we knew exactly what a prehensile tail was. “The tail is used just like a 5th arm”. Aha! We were hiking through the Osa Peninsula of Costa Rica with a Puerto Jimenez based tour company Osa Wild. We were just an hour away from the town but it still felt remote. ( Any place without network coverage is remote, says Vinu ).
 
 
